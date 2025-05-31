@@ -1,4 +1,2 @@
-print("Not Hello")
+print("Hello")
 
-
-print("test")
